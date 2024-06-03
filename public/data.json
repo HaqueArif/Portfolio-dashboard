@@ -1,0 +1,134 @@
+[
+  {
+    "image": "https://i.postimg.cc/hPSB4qks/Food-Supplies.jpg",
+    "title": "Emergency Food Supplies",
+    "category": "Food Supplies",
+    "amount": "1000 kg of rice, 500 cans of beans",
+    "details": {
+      "description": "This relief package consists of essential food items suitable for sustaining individuals during emergencies. It includes a substantial quantity of rice and beans, providing a reliable source of nutrition.",
+      "distribution": "Distribution centers have been set up across affected areas for equitable distribution to those in need.",
+      "donation": "Donations for replenishing this supply are welcome to ensure ongoing support for affected communities."
+    }
+  },
+  {
+    "image": "https://i.postimg.cc/gJ8WjccS/Shelter-Kits.jpg",
+    "title": "Temporary Shelter Kits",
+    "category": "Shelter Kits",
+    "amount": "50 tents, 100 sleeping bags",
+    "details": {
+      "description": "These shelter kits offer temporary housing solutions for displaced individuals. Each kit includes tents for shelter and sleeping bags for comfort and warmth.",
+      "distribution": "Distribution teams are deploying these kits to areas with urgent shelter needs, prioritizing vulnerable populations such as families with children and elderly individuals.",
+      "donation": "Contributions towards procuring more shelter kits are crucial for addressing the growing demand for temporary housing."
+    }
+  },
+  {
+    "image": "https://i.postimg.cc/fRqZgggK/Warm-Clothing-Packs.webp",
+    "title": "Warm Clothing Packs",
+    "category": "Clothing",
+    "amount": "200 jackets, 300 pairs of socks",
+    "details": {
+      "description": "These clothing packs contain warm jackets and socks, essential for protecting individuals from harsh weather conditions. They are particularly vital for those living in cold climates or facing winter seasons.",
+      "distribution": "Volunteers are distributing these clothing packs directly to communities in need, focusing on areas with low access to warm clothing.",
+      "donation": "Donations towards purchasing additional clothing packs will help ensure that everyone can stay warm and comfortable during difficult times."
+    }
+  },
+  {
+    "image": "https://i.postimg.cc/xTtSc4Y2/Hygiene-Essentials.webp",
+    "title": "Hygiene Essentials",
+    "category": "Personal Hygiene",
+    "amount": "1000 packs of soap, 500 bottles of sanitizer",
+    "details": {
+      "description": "Hygiene essentials are crucial for maintaining health and preventing the spread of diseases, especially in emergency situations. This package includes soap and sanitizer to promote proper hygiene practices.",
+      "distribution": "Local health authorities and relief organizations are distributing these hygiene kits in communities, emphasizing the importance of handwashing and sanitation.",
+      "donation": "Contributions towards replenishing hygiene supplies will help ensure continuous support for hygiene promotion efforts in affected areas."
+    }
+  },
+  {
+    "image": "https://i.postimg.cc/dtvq7Cy8/Relief-Goods-images-of-Medical-Supplies.jpg",
+    "title": "Medical Supplies",
+    "category": "Medical Supplies",
+    "amount": "50 first aid kits, 200 packs of bandages",
+    "details": {
+      "description": "Medical supplies are essential for providing immediate care and addressing health concerns during emergencies. This package includes first aid kits and bandages to treat injuries and wounds.",
+      "distribution": "Medical teams and first responders are deploying these supplies to areas with limited access to healthcare facilities, prioritizing the treatment of injuries and preventing infections.",
+      "donation": "Supporting the procurement of additional medical supplies is critical for ensuring timely medical assistance and healthcare provision in affected regions."
+    }
+  },
+  {
+    "image": "https://i.postimg.cc/0NLv9KvK/Water-Containers.jpg",
+    "title": "Clean Water Containers",
+    "category": "Water Containers",
+    "amount": "1000 water bottles, 50 water tanks",
+    "details": {
+      "description": "Access to clean water is vital for survival, especially in disaster-affected areas where water sources may be compromised. This package includes water bottles and tanks for storing and transporting clean water.",
+      "distribution": "Relief teams are distributing these water containers to communities facing water scarcity, ensuring access to safe drinking water for drinking, cooking, and sanitation purposes.",
+      "donation": "Contributions towards acquiring more water containers will help address the urgent need for clean water in disaster-affected regions, promoting health and hygiene."
+    }
+  },
+  {
+    "image": "https://i.postimg.cc/Hkn159s7/Emergency-Blankets.jpg",
+    "title": "Emergency Blankets",
+    "category": "Warmth Supplies",
+    "amount": "500 blankets",
+    "details": {
+      "description": "Emergency blankets are essential for providing warmth and insulation in harsh conditions. These blankets are lightweight and durable, suitable for use in emergency shelters or outdoor settings.",
+      "distribution": "Relief teams are distributing these blankets to individuals and families affected by natural disasters, ensuring they have the necessary protection against cold weather.",
+      "donation": "Donations towards acquiring more emergency blankets will help expand the reach of relief efforts and provide comfort to those in need."
+    }
+  },
+  {
+    "image": "https://i.postimg.cc/2SSrGfTy/Solar-Lanterns.webp",
+    "title": "Solar Lanterns",
+    "category": "Lighting Supplies",
+    "amount": "200 solar lanterns",
+    "details": {
+      "description": "Solar lanterns provide sustainable lighting solutions for individuals living in areas with limited access to electricity. These lanterns harness solar energy to provide illumination during nighttime hours.",
+      "distribution": "Relief organizations are distributing these solar lanterns to communities affected by power outages or lack of access to electricity, enabling them to carry out essential tasks and activities after dark.",
+      "donation": "Contributions towards procuring more solar lanterns will help improve safety and quality of life for individuals living in disaster-affected areas without reliable access to electricity."
+    }
+  },
+  {
+    "image": "https://i.postimg.cc/SKz01Q9S/Family-Hygiene-Kits.jpg",
+    "title": "Family Hygiene Kits",
+    "category": "Personal Hygiene",
+    "amount": "300 hygiene kits",
+    "details": {
+      "description": "Family hygiene kits contain essential supplies for maintaining personal cleanliness and hygiene. These kits typically include items such as soap, toothpaste, toothbrushes, and sanitary products.",
+      "distribution": "Relief agencies are distributing these hygiene kits to families in need, with a focus on promoting healthy hygiene practices and preventing the spread of diseases.",
+      "donation": "Supporting the distribution of family hygiene kits ensures that families have access to essential hygiene supplies, promoting health and well-being in disaster-affected communities."
+    }
+  },
+  {
+    "image": "https://i.postimg.cc/L4kSMsbh/Children-s-Supplies1.jpg",
+    "title": "Childcare Essentials",
+    "category": "Children's Supplies",
+    "amount": "100 kits",
+    "details": {
+      "description": "Childcare essentials kits contain items specifically designed to meet the needs of infants and young children during emergencies. These kits may include diapers, baby formula, baby wipes, and children's clothing.",
+      "distribution": "Relief organizations are distributing these childcare essentials kits to families with young children, ensuring that infants and toddlers receive the necessary care and supplies during challenging times.",
+      "donation": "Contributions towards providing childcare essentials kits will help support families with young children, ensuring that they have access to the necessary supplies for infant care and hygiene."
+    }
+  },
+  {
+    "image": "https://i.postimg.cc/brRf06t1/Communication-Supplies.jpg",
+    "title": "Emergency Communication Devices",
+    "category": "Communication Supplies",
+    "amount": "50 satellite phones",
+    "details": {
+      "description": "Emergency communication devices such as satellite phones are crucial for maintaining communication links in disaster-affected areas where traditional communication infrastructure may be compromised.",
+      "distribution": "Relief teams are deploying these satellite phones to key locations in disaster zones, enabling communication between response teams, authorities, and affected individuals.",
+      "donation": "Contributions towards acquiring more emergency communication devices will help improve coordination and communication during emergency response efforts, enhancing the effectiveness of relief operations."
+    }
+  },
+  {
+    "image": "https://i.postimg.cc/8cGV68j1/Agricultural-Supplies.jpg",
+    "title": "Seeds and Farming Tools",
+    "category": "Agricultural Supplies",
+    "amount": "100 seed packets, 50 farming tool kits",
+    "details": {
+      "description": "Seeds and farming tools are essential for supporting agricultural livelihoods in disaster-affected communities. These supplies enable individuals to cultivate crops and sustain their food security in the long term.",
+      "distribution": "Relief organizations are distributing seeds and farming tool kits to farmers and agricultural communities, empowering them to rebuild their livelihoods and enhance food production.",
+      "donation": "Contributions towards providing seeds and farming tools will help support agricultural recovery efforts, ensuring that communities can rebuild their livelihoods and food security following disasters."
+    }
+  }
+]
